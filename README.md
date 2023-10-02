@@ -1,7 +1,5 @@
-# HacktoberFest 2023 
+# 🎉HacktoberFest 2023 🎉
 ![HacktoberFest 2023](https://github.com/ossamamehmood/Hacktoberfest2023/raw/main/.github/logo.png)
-
-
 
 
 ## This Repo Is Totally `beginner friendly`, Perfect For Your `First Pull Request`:
@@ -12,6 +10,8 @@
 🎮**You can join Hactoberfest [`Discord Server`](https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVHdvZ1VBQU16ZktjdmZLUUdLNGZObDc4c1B0Uk1DdHdWcTQ4QT0iLCJocmVmIjoiaHR0cHM6Ly9kaXNjb3JkLmNvbS9pbnZpdGUvaGFja3RvYmVyZmVzdCIsImludGVybmFsIjoiZjBhMjA1MTZhYmJiMDFjY2RmMjkiLCJsaW5rX2lkIjoxMzJ9/c7dfa7efbdc718aa395bd71a49a7b23f15d2e1f767cb53b5880eb70d77e525c7)**
 
 🎉**Participants with four pull/merge requests accepted between October 1 and October 31 will receive a `unique digital reward🔥`**
+
+⚠️**Please don't spamming in the repo by making unwanted contribution or bad PRs and don't make multiple PRs in a single day**
 
 ## Note:
 
@@ -34,7 +34,7 @@ Keep in mind that the repo has hacktoberfest topic.**
 ```
 git clone https://github.com/UmangDalvadi/Hacktoberfest-2023.git
 ```
-- Create a new branch for your modifications
+- Create a new branch for your modifications (Optional)
     
 ```
 git branch branchA
@@ -45,6 +45,20 @@ git branch branchA
 git checkout branchA
 ```
 - Open your cloned folder in pc and Add your code in `Upload Your Code/<appropriate-folder-according-to-your-code>/` folder
+
+<div align="center">
+<h2> OR </h2>
+</div>
+
+- Add a profile picture of your choice in `images/<YOUR-USERNAME>.jpg`. Accepted files are `.png` and `.jpg`.
+- Create a markdown file in your folder following the convention `participant/<YOUR-USERNAME>.md`
+- Here is your template for markdown file
+```
+name: YOUR_GITHUB_USERNAME
+github: GitHub_profile_link
+linkedin: LinkedIN_profile_link 
+```
+
 - Now open `git` and Add your changes
 ```
 git add .
@@ -61,6 +75,11 @@ git push --set-upstream origin branchA
 - Do not forget to `STAR ⭐` this repo
 
 ## Hurray!! You just got closer to complete your hacktoberfest challenge.
+
+## Contributors ♥️
+<p align="center"><a href="https://github.com/UmangDalvadi/hacktoberfest2023/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=UmangDalvadi/hacktoberfest2023" />
+</a></p>
 
 ## + Follow Me : } 
 
