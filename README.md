@@ -44,7 +44,7 @@ git branch branchA
 ```
 git checkout branchA
 ```
-- Open your cloned folder in pc and Add your code in `Upload Your Code/<appropriate-folder-according-to-your-code>/` folder
+- Open your cloned folder in pc and Add your code in `Upload_Your_Code/<appropriate-folder-according-to-your-code>/` folder
 
 <div align="center">
 <h2> OR </h2>
