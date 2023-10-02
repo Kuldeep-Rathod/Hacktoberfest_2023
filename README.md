@@ -77,8 +77,8 @@ git push --set-upstream origin branchA
 ## Hurray!! You just got closer to complete your hacktoberfest challenge.
 
 ## Contributors ♥️
-<p align="center"><a href="https://github.com/UmangDalvadi/Hacktoberfest2023/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=UmangDalvadi/Hacktoberfest2023" />
+<p align="center"><a href="https://github.com/UmangDalvadi/Hacktoberfest_2023/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=UmangDalvadi/Hacktoberfest_2023" />
 </a></p>
 
 ## + Follow Me : } 
